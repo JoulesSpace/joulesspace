@@ -4,7 +4,7 @@
 
 - 🧠 Python, TypeScript, C# (.NET).
 - ⚡ Build-and-deploy: ran production AI (LLM/RAG/CV/ML, Ollama, agents) on AWS at ~1 TB/day — shipped to enterprise. 
-- 📦 Founder of AICU GmbH ('23–'26) — 12-person team, raised ~€1M, six-figure B2B deals.
+- 📦 Founder of [AICU](https://www.aicuflow.com/) GmbH ('23–'26) — 12-person team, raised ~€1M, six-figure B2B deals.
 - 🤖 Industrial AI roots: PLC/SPS, ROS, digital twins, virtual commissioning. 
 - 🧪 M.Sc. TUM Chemical Engineering (1.3) — focus on AI, automation, robotics.
 - 🏆 15+ hackathon wins — Google, BMW, Bayer, Bosch, Intel Ignite. 
